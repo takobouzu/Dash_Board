@@ -41,6 +41,9 @@ iPad内のフォルダ「Dash_Board」を作成して、フォルダ「Dash_Boar
 
 + iPadのpythonista3を起動して、iPad内のフォルダ「Dash_Board」に格納されている「dash_board.py」を実行する。
 
++ Dash Boardの機能解説とかつよう
++ iPadのpythonista3を起動して、iPa
+
 # ライセンス
 
 MIT License.
