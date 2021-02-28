@@ -20,9 +20,7 @@ Dash_Boardは、[ボートレースデータベース「BOAT_RACE_DB」](https:/
 # インストール
 
 iPad内のフォルダ「Dash_Board」を作成して、フォルダ「Dash_Board」に下記のファイルを格納する。
-
-
-(https://user-images.githubusercontent.com/24547343/109421352-3d3bce00-7a1a-11eb-8703-14213f5ac21f.png)
+<img width="469" alt="Monosnap 2021-02-28 23-10-51" src="https://user-images.githubusercontent.com/24547343/109421491-dff44c80-7a1a-11eb-8167-6350dddccce1.png">
 
 ## ファイル構成
 
