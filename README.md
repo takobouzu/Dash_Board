@@ -37,6 +37,8 @@ iPad内のフォルダ「Dash_Board」を作成して、フォルダ「Dash_Boar
 # 使い方
 
 + boatrace.dbは常に最新の状態をiPad内のフォルダ「Dash_Board」に格納しておくこと。
+<img width="470" alt="Monosnap 2021-02-28 23-17-33" src="https://user-images.githubusercontent.com/24547343/109421561-3d889900-7a1b-11eb-8c72-2c8a8c76de48.png">
+
 + iPadのpythonista3を起動して、iPad内のフォルダ「Dash_Board」に格納されている「dash_board.py」を実行する。
 
 # ライセンス
